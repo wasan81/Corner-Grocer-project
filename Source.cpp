@@ -2,6 +2,9 @@
 Wasan Alabed
 CS210
 Project 3 coner grocer
+August 19 2022
+_______________________________________________
+This C++ code use to interface with users  
 */
 #include <Python.h>
 #include <iostream>
