@@ -3,12 +3,15 @@
 #   CS210: corner grocer project 
 #   August 19,2022
 # --------------------------------------------------------------------------------
-#   This  python code read a list of all items from (item text file) purchased in 
-#    a given day along with the number of times each item was purchased.
+#       This  python code read a list of all items from (item text file) purchased in 
+#       a given day along with the number of times each item was purchased.
 #
-#   Rearranging their produce section to know how often items are purchased.
+#   
+#       Rearranging their produce section to calculate the frequency of every word that appears from the input file.
 #
-#   Save the result in frequencey dot file. 
+#       Determine the number of times each individual item appears and return the frequency of a specific word
+#
+#       Save the result in frequencey dot file. 
 # ---------------------------------------------------------------------------------
 
 FILENAME = open("item.txt")
