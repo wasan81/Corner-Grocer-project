@@ -1,3 +1,15 @@
+######################################################################
+#   Wasan Alabed
+#   CS210: corner grocer project 
+#   August 19,2022
+#   This  python code read a list of all items from (item text file) purchased in a given day along with the number of times each item was purchased. 
+#   Rearranging their produce section to know how often items are purchased.
+#   Save the result in frequencey dot file. 
+##########################################################################
+
+
+
+
 FILENAME = open("item.txt")
 
 def readFile(filename):
