@@ -3,8 +3,12 @@ Wasan Alabed
 CS210
 Project 3 coner grocer
 August 19 2022
-_______________________________________________
-This C++ code use to interface with users  
+__________________________________________________________________________________
+This C++ code use to display the number of times each item (or word) appears.
+Prompt a user to input the item, or word, they wish to look for.
+display the value returned from Python.
+read the frequency.dat file and display a histogram.
+___________________________________________________________________________________
 */
 #include <Python.h>
 #include <iostream>
