@@ -45,7 +45,7 @@ The skills from this project that can be used in future projects is using two la
                                 
 How did you make this program maintainable, readable, and adaptable?
 
-using simple code and adding comments to identify each function and code. free syntax error all these make my program readable and understantable . 
+using simple code and adding  in-line comments to identify each function and code. free syntax error all these make my program readable and understantable . 
 
 
                                 
