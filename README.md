@@ -24,11 +24,16 @@ Which pieces of the code did you find most challenging to write, and how did you
 
 The most challenging part was writing the display frequency.dat file as a text-based histogram. When I put the item inside the for loop
 for example :
-for Potatoes 4---> the output was 
+Potatoes 4---> the output was
+
 Potatoes *
-Potatoes *                              
+
 Potatoes * 
+
+Potatoes * 
+
 Potatoes *
+
 after that I figure the problem and fix it by display item before the for loop.
 
 
